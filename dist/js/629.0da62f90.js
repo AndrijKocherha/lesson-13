@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkschool"]=self["webpackChunkschool"]||[]).push([[629],{6629:function(e,n,u){u.r(n),u.d(n,{default:function(){return a}});var r=u(3396);function t(e,n,u,t,c,o){const s=(0,r.up)("router-view");return(0,r.wg)(),(0,r.iD)("div",null,[(0,r.Wm)(s)])}var c={name:"SubjectsPage",methods:{}},o=u(89);const s=(0,o.Z)(c,[["render",t]]);var a=s}}]);
+//# sourceMappingURL=629.0da62f90.js.map
